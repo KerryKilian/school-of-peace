@@ -1,0 +1,12 @@
+.customInput {
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #1e2a66;
+  background-color: white;
+  color: black;
+  padding: 9px;
+  font-size: 12pt;
+  width: 100%;
+  color: #1e2a66;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

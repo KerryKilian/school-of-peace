@@ -1,0 +1,18 @@
+.dropdown {
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #1e2a66;
+  background-color: white;
+  color: black;
+  padding: 9px;
+  font-size: 12pt;
+  width: 10%;
+}
+.dropdownItem:hover,
+.dropdownItem:focus {
+  background-color: #aeb8e8;
+}
+
+.button {
+  margin-top: 15px;
+}

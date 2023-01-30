@@ -1,0 +1,28 @@
+.header {
+  background-color: #1c2b63;
+  display: flex;
+}
+
+.logo {
+  padding: 10px;
+}
+
+.section {
+  background-color: transparent;
+  margin-left: 10px;
+  border-width: 0px;
+  cursor: pointer;
+  color: white;
+  font-size: large;
+  padding: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section:hover {
+  background-color: #16224e;
+  color: white;
+}
+
+.sectionGroup {
+  display: flex;
+}

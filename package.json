@@ -1,0 +1,23 @@
+{
+  "name": "next-js-bulma",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "bulma": "^0.9.2",
+    "cookies-next": "^2.1.1",
+    "crypto-js": "^4.1.1",
+    "mongodb": "^4.12.1",
+    "next": "10.0.9",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.7.1",
+    "react-loading-screen": "^0.0.17",
+    "sass": "^1.57.1"
+  }
+}

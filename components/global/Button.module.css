@@ -1,0 +1,29 @@
+.customButton {
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 10px;
+  font-size: 12pt;
+  background-color: #1e2a66;
+  color: white;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.customButton:hover {
+  background-color: #171e43;
+  cursor: pointer;
+}
+.light:hover {
+  background-color: #aeb8e8;
+  cursor: pointer;
+}
+
+.light {
+  background-color: #cfd5f1;
+  color: #1e2a66;
+}
+
+.squareBtn {
+  width: 40px;
+  height: 40px;
+}
